@@ -1,0 +1,31 @@
+Lista Super:
+
+Vegetales
+- ajo
+- cebolla
+- zapallo
+- lechuga
+- papas
+- tomate
+
+Frutas
+- banana
+- manzana
+- naranja
+- limón
+
+Lácteos
+- leche
+- yougurt
+- queso
+
+Bebidas
+- Te
+- Jugo/Gaseosa
+
+Varios
+- harina
+- levadura
+- manteca
+- huevos
+- vinagre
